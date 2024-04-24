@@ -9,7 +9,7 @@
 
 
 <div align="center" style="display: block;">
-    <img align="center" alt="GIF" src="programmer.gif" width="500" height="320" />
+    <img align="center" alt="GIF" src="developer.gif" width="500" height="320" />
 </div>
 
 
