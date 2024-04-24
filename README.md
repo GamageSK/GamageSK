@@ -17,12 +17,6 @@
 <details><summary> <h3> Who Am I 🕵️‍♂️ ? </h3></summary>
 
 
-**`Hi, I am Karem Saad have Diploma of software engineer from Technical Computer College in Damascus university and in my second year of Information Technology Engineering at Syrian Virtual University 
-I am now at my third year of going into programming world and software engineering and in this journey I have discover many great concepts like OOP , solid principles , Generic with Abstract classes , Unit Testing and UML so I took all these concepts to do it with every language I work on such as C# , Dart , php , Python 
-In my last experience on big project I noticed the importance of implementing design patterns for scalability and maintainability. This led me to delve deeper into methodologies like Model-View-Controller (MVC) and Repository Pattern, 
-All that to get the best experience for my clients or the team that i work with in our software 
-in the end at last period i working on frameworks Flutter And Laravel to elevate my skills on both of them and tools such as Git and keep going In my journey of learning
-`**
 
 </details>
 <hr>
@@ -39,7 +33,7 @@ in the end at last period i working on frameworks Flutter And Laravel to elevate
 <hr>
 <h3 align="center" > 🚀 Languages - Frameworks - Tools - Libraries - Workspace 🚀</h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=react,reactnative,dart,flutter,firebase,bootstrap,html,css,vscode,git,js,postman,cs,php,mysql,github,visualstudio,windows" 
+    <img src="https://skillicons.dev/icons?i=react,dart,flutter,firebase,bootstrap,html,css,vscode,git,js,postman,cs,php,mysql,github,visualstudio,windows" 
 
  </p>
 
